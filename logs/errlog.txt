@@ -1,0 +1,2 @@
+2023-12-29	20:11:24	03aec457-6fd7-4a6a-b1f3-9432ad72b444	Error : ENOENT: no such file or directory, stat 'C:\Users\Shrey patel\Documents\backened_prac\routes\day-2\404.html'
+2023-12-30	20:02:47	7f740e7d-7771-4026-a3b0-1c2fbfdc7a7e	TypeError : res.json is not a function
